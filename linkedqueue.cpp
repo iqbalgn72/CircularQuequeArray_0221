@@ -124,7 +124,7 @@ int main() {
 			cout << "Check fo the values entered." << endl;
 		}
 	}
-
+    return 0;
 }
 			
 		

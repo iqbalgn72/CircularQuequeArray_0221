@@ -89,6 +89,10 @@ int main() {
     while (true) {
         try {
             cout << "Menu"<< endl;
+            cout << "1. Implement insert operation"<< endl;
+            cout << "2. Implement delete operation"<< endl;
+
+
         }
     }
 }
